@@ -4,4 +4,5 @@ machine:
 
 dependencies:
   override:
+    - composer update
     - composer install --prefer-source --no-interaction --no-dev
