@@ -38,9 +38,9 @@
                 </style>
             </head>
             <body>
-                <div class=\"container\">
-                    <div class=\"content\">
-                        <div class=\"title\">Lumen with Codeship and CircleCI.</div>
+                <div class="container">
+                    <div class="content">
+                        <div class="title">Lumen with Codeship and CircleCI.</div>
                     </div>
                 </div>
             </body>
